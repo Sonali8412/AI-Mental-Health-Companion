@@ -94,9 +94,9 @@ Architecture
 8. Response is returned to the user
 
 ---
-Deployed Project Link
-                              https://ai-therapist-agent.vercel.app
-
+Deployed Project Link --   https://ai-therapist-agent.vercel.app
+                              
+---
 📂 Project Structure (Example)
 
 ├── frontend/
@@ -122,6 +122,12 @@ Deployed Project Link
 ---
 
 📸 Screenshots / Architecture Diagram
+
+<img width="1875" height="929" alt="Screenshot (518)" src="https://github.com/user-attachments/assets/171e945b-fe9f-4a80-9c10-98d3632bc277" />
+<img width="1910" height="919" alt="Screenshot (519)" src="https://github.com/user-attachments/assets/5ad07e52-d2c6-424b-8871-1089a95b79cd" />
+<img width="1867" height="910" alt="Screenshot (520)" src="https://github.com/user-attachments/assets/3dd110ec-fd77-4cf5-a603-ee2d70f15e9c" />
+
+
 
 
 
